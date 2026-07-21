@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/0217-contains-duplicate) |
 | [0724-find-pivot-index](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/0724-find-pivot-index) |
+| [0896-monotonic-array](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/0896-monotonic-array) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Math
 |  |
