@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/0189-rotate-array) |
 | [0412-fizz-buzz](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/0412-fizz-buzz) |
+| [1025-divisor-game](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/1025-divisor-game) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Two Pointers
@@ -107,4 +108,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/0605-can-place-flowers) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/1025-divisor-game) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
