@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0896-monotonic-array](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/0896-monotonic-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/0922-sort-array-by-parity-ii) |
+| [1037-valid-boomerang](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/1037-valid-boomerang) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/0189-rotate-array) |
 | [0412-fizz-buzz](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/0412-fizz-buzz) |
 | [1025-divisor-game](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/1025-divisor-game) |
+| [1037-valid-boomerang](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/1037-valid-boomerang) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Two Pointers
@@ -120,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/1025-divisor-game) |
+## Geometry
+|  |
+| ------- |
+| [1037-valid-boomerang](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/1037-valid-boomerang) |
 <!---LeetCode Topics End-->
