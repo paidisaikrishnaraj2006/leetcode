@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/0001-two-sum) |
 | [0189-rotate-array](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/0217-contains-duplicate) |
+| [0682-baseball-game](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/0724-find-pivot-index) |
 | [0896-monotonic-array](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/0896-monotonic-array) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/0412-fizz-buzz) |
+| [0682-baseball-game](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/0682-baseball-game) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Prefix Sum
 |  |
@@ -91,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
