@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/0217-contains-duplicate) |
+| [0240-search-a-2d-matrix-ii](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0605-can-place-flowers](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/0605-can-place-flowers) |
 | [0682-baseball-game](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/0724-find-pivot-index) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0240-search-a-2d-matrix-ii](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/0048-rotate-image) |
+| [0240-search-a-2d-matrix-ii](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Stack
 |  |
@@ -143,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
