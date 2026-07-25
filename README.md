@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1037-valid-boomerang](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/1037-valid-boomerang) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [3536-maximum-product-of-two-digits](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Two Pointers
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/0242-valid-anagram) |
 | [0922-sort-array-by-parity-ii](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [3536-maximum-product-of-two-digits](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Tree
 |  |
 | ------- |
