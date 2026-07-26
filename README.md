@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1480-running-sum-of-1d-array](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Math
 |  |
 | ------- |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Matrix
 |  |
 | ------- |
@@ -166,4 +168,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Counting
+|  |
+| ------- |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 <!---LeetCode Topics End-->
