@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
