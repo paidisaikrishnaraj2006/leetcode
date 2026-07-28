@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0844-backspace-string-compare](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/0844-backspace-string-compare) |
 | [0922-sort-array-by-parity-ii](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Hash Table
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/0412-fizz-buzz) |
+| [0844-backspace-string-compare](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3921-score-validator](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/3921-score-validator) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/0844-backspace-string-compare) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3921-score-validator](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/3921-score-validator) |
 ## Prefix Sum
@@ -156,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Greedy
 |  |
