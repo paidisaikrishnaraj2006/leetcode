@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/0412-fizz-buzz) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3921-score-validator](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/3921-score-validator) |
 ## Sorting
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/0682-baseball-game) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Greedy
 |  |
 | ------- |
