@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/0412-fizz-buzz) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3921-score-validator](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/3921-score-validator) |
 ## Sorting
 |  |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0922-sort-array-by-parity-ii](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Tree
 |  |
@@ -177,4 +179,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
