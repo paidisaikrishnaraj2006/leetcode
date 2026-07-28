@@ -3,18 +3,12 @@ class Solution {
         if(s.length()!=t.length()){
             return false;
         }
-        int[]count=new int[256];
+        char[]a=s.toCharArray();
+        char[]b=t.toCharArray();
 
-        for(int i=0;i<s.length();i++){
-            count[s.charAt(i)-'a']++;
-            count[t.charAt(i)-'a']--;
-        }
+        Arrays.sort(a);
+        Arrays.sort(b);
 
-        for(int num:count){
-            if(num!=0){
-                return false;
-            }
-        }
-        return true;
+        return Arrays.equals(a,b);
     }
 }
