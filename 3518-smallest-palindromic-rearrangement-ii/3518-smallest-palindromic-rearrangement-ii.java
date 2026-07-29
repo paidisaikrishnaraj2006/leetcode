@@ -1,5 +1,5 @@
 class Solution {
-    private static final long CAP = 2_000_000_000_000_000L; // comfortably above any valid k
+    private static final long CAP = 2_000_000_000_000_000L; 
 
     public String smallestPalindrome(String s, long k) {
         int[] cnt = new int[26];
@@ -43,7 +43,6 @@ class Solution {
         return sb.toString();
     }
 
-    // number of distinct permutations of this multiset, capped
     private long arrangements(int[] counts, int length) {
         long res = 1;
         long total = 0;
