@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Queue
 |  |
@@ -213,4 +214,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
