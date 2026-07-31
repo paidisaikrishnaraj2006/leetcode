@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2652-sum-multiples](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/2652-sum-multiples) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3516-find-closest-person](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/3516-find-closest-person) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Two Pointers
