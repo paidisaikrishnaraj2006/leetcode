@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3516-find-closest-person](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/3516-find-closest-person) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/3536-maximum-product-of-two-digits) |
+| [3783-mirror-distance-of-an-integer](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 | [3870-count-commas-in-range](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/3870-count-commas-in-range) |
 ## Two Pointers
 |  |
