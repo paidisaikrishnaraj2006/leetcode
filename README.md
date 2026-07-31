@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-monotonic-array](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/0896-monotonic-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [1037-valid-boomerang](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/1037-valid-boomerang) |
+| [1089-duplicate-zeros](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/1089-duplicate-zeros) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0844-backspace-string-compare](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/0844-backspace-string-compare) |
 | [0922-sort-array-by-parity-ii](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/0922-sort-array-by-parity-ii) |
+| [1089-duplicate-zeros](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/1089-duplicate-zeros) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Hash Table
 |  |
