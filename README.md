@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3131-find-the-integer-added-to-array-i](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3206-alternating-groups-i](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/3206-alternating-groups-i) |
 | [3364-minimum-positive-sum-subarray](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
+| [3683-earliest-time-to-finish-one-task](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3731-find-missing-elements](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/3731-find-missing-elements) |
 | [3921-score-validator](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/3921-score-validator) |
 ## Math
