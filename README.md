@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/1406-stone-game-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1512-number-of-good-pairs](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1406-stone-game-iii](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/1406-stone-game-iii) |
+| [1512-number-of-good-pairs](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2235-add-two-integers](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/2235-add-two-integers) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/2269-find-the-k-beauty-of-a-number) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/0242-valid-anagram) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1512-number-of-good-pairs](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/1512-number-of-good-pairs) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
@@ -271,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/0169-majority-element) |
+| [1512-number-of-good-pairs](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/1512-number-of-good-pairs) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
