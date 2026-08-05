@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2269-find-the-k-beauty-of-a-number](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3136-valid-word](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/3136-valid-word) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3813-vowel-consonant-score](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/3813-vowel-consonant-score) |
