@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1406-stone-game-iii](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/1406-stone-game-iii) |
 | [1512-number-of-good-pairs](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/1512-number-of-good-pairs) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2235-add-two-integers](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/2235-add-two-integers) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/2269-find-the-k-beauty-of-a-number) |
