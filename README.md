@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2413-smallest-even-multiple](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/2469-convert-the-temperature) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
+| [2485-find-the-pivot-integer](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/2485-find-the-pivot-integer) |
 | [2652-sum-multiples](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/2652-sum-multiples) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3516-find-closest-person](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/3516-find-closest-person) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/1732-find-the-highest-altitude) |
+| [2485-find-the-pivot-integer](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/2485-find-the-pivot-integer) |
 | [3364-minimum-positive-sum-subarray](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 ## Binary Search
 |  |
