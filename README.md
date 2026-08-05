@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3813-vowel-consonant-score](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/3813-vowel-consonant-score) |
 | [3894-traffic-signal-color](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/3894-traffic-signal-color) |
 | [3921-score-validator](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/3921-score-validator) |
 ## Sorting
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/0844-backspace-string-compare) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [3813-vowel-consonant-score](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/3813-vowel-consonant-score) |
 | [3894-traffic-signal-color](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/3894-traffic-signal-color) |
 | [3921-score-validator](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/3921-score-validator) |
 ## Prefix Sum
