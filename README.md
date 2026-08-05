@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3364-minimum-positive-sum-subarray](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3731-find-missing-elements](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/3731-find-missing-elements) |
+| [3866-first-unique-even-element](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/3866-first-unique-even-element) |
 | [3921-score-validator](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/3921-score-validator) |
 ## Math
 |  |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3731-find-missing-elements](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/3731-find-missing-elements) |
+| [3866-first-unique-even-element](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/3866-first-unique-even-element) |
 | [3945-digit-frequency-score](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/3945-digit-frequency-score) |
 ## String
 |  |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3866-first-unique-even-element](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/3866-first-unique-even-element) |
 ## Counting Sort
 |  |
 | ------- |
