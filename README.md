@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3206-alternating-groups-i](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/3206-alternating-groups-i) |
 | [3364-minimum-positive-sum-subarray](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/3683-earliest-time-to-finish-one-task) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/3731-find-missing-elements) |
 | [3861-minimum-capacity-box](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/3861-minimum-capacity-box) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/3731-find-missing-elements) |
 | [3866-first-unique-even-element](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/3866-first-unique-even-element) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3866-first-unique-even-element](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/3866-first-unique-even-element) |
 ## Counting Sort
 |  |
