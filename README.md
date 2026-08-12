@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1823-find-the-winner-of-the-circular-game](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1929-concatenation-of-array](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/1929-concatenation-of-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3206-alternating-groups-i](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/3206-alternating-groups-i) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1346-check-if-n-and-its-double-exist](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1512-number-of-good-pairs](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/1748-sum-of-unique-elements) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0003-longest-substring-without-repeating-characters](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/2269-find-the-k-beauty-of-a-number) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3206-alternating-groups-i](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/3206-alternating-groups-i) |
 | [3364-minimum-positive-sum-subarray](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 ## Linked List
