@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/1512-number-of-good-pairs) |
+| [1563-stone-game-v](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/1563-stone-game-v) |
 | [1732-find-the-highest-altitude](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1748-sum-of-unique-elements](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1406-stone-game-iii](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/1406-stone-game-iii) |
 | [1512-number-of-good-pairs](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1563-stone-game-v](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/1563-stone-game-v) |
 | [1688-count-of-matches-in-tournament](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0877-stone-game](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/1025-divisor-game) |
 | [1406-stone-game-iii](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/1406-stone-game-iii) |
+| [1563-stone-game-v](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/1563-stone-game-v) |
 ## Brainteaser
 |  |
 | ------- |
@@ -271,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0877-stone-game](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/1025-divisor-game) |
 | [1406-stone-game-iii](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/1406-stone-game-iii) |
+| [1563-stone-game-v](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/1563-stone-game-v) |
 ## Geometry
 |  |
 | ------- |
