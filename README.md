@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1386-cinema-seat-allocation](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/1406-stone-game-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0217-contains-duplicate](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/0242-valid-anagram) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1386-cinema-seat-allocation](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1512-number-of-good-pairs](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/1748-sum-of-unique-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/0605-can-place-flowers) |
+| [1386-cinema-seat-allocation](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Dynamic Programming
@@ -318,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0136-single-number](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1386-cinema-seat-allocation](https://github.com/paidisaikrishnaraj2006/leetcode/tree/master/1386-cinema-seat-allocation) |
 ## Sliding Window
 |  |
 | ------- |
